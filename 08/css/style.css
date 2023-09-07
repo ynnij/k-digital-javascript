@@ -1,0 +1,43 @@
+form {
+    display: flex;
+    justify-content: space-around;
+}
+header p {
+    color: blue;
+}
+#dt1 {
+    display: inline-flex;
+    width: 45%;
+}
+form div {
+    width: 45%;
+}
+thead {
+    background-color: #dcf1ff
+}
+thead tr th {
+    font-weight: bold;
+    text-align: center;
+}
+
+.numtd {
+    display:inline-flex;
+    width: 100%;
+    justify-content: right;
+    align-items: right;
+}
+
+.inten0 {
+    color: green;
+}
+.inten1 {
+    color: red;
+}
+.inten2{
+    color: blue;
+}
+
+h1 span {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
