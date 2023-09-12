@@ -1,0 +1,17 @@
+h2, .h2Sel1 {
+    font-weight: bold;
+    color: blue;
+}
+thead {
+    background-color: #D6EAF8 ;
+}
+th {
+    text-align: center;
+    font-weight: bold;
+}
+td {
+    text-align: center;
+}
+#tcnt {
+    color: red;
+}
